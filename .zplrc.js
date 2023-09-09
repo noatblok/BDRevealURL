@@ -1,6 +1,6 @@
 module.exports = {
     base: "./src",
     out: "./release",
-    copyToBD: true,
+    copyToBD: false,
     addInstallScript: true
 };

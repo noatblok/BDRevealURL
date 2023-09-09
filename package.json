@@ -1,10 +1,10 @@
 {
-  "name": "urlplugin",
+  "name": "RevealURL",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "zpl build",
+    "build": "zpl build RevealURL",
     "init": "zpl init"
   },
   "author": "",
