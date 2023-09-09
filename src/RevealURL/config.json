@@ -1,0 +1,11 @@
+{
+    "main": "index.js",
+    "id": "revealurlig",
+    "name": "RevealURL",
+    "author": "noatblok",
+    "authorId": "491348378098204672",
+    "version": "0.0.1",
+    "description": "Reveals the real URL associated with an embedded link.",
+    "changelog": [],
+    "defaultConfig": []
+}
