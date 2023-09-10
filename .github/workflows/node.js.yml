@@ -31,5 +31,5 @@ jobs:
     - name: Archive code coverage results
       uses: actions/upload-artifact@v3
       with:
-        name: bdplugin
+        name: RevealURL.plugin.js
         path: release/RevealURL.plugin.js
