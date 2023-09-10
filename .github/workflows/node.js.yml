@@ -37,5 +37,6 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         files: release/RevealURL.plugin.js
+        tag_name: actions-release
         name: Auto Release
         token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
